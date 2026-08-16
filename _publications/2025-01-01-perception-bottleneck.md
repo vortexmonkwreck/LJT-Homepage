@@ -7,11 +7,11 @@ excerpt: "Investigating the perception bottleneck of vision-language models for 
 date: 2025-01-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2502.xxxxx'
-citation: '&lt;u&gt;Junteng Liu&lt;/u&gt;, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). &amp;quot;On the Perception Bottleneck of VLMs for Chart Understanding.&amp;quot; &lt;i&gt;Arxiv&lt;/i&gt;.'
+citation: '<u>Junteng Liu</u>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. (2025). "On the Perception Bottleneck of VLMs for Chart Understanding." <i>Arxiv</i>.'
 ---
 
 **On the Perception Bottleneck of VLMs for Chart Understanding**
 
-&lt;u&gt;Junteng Liu&lt;/u&gt;, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+<u>Junteng Liu</u>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
 
 *Arxiv, 2025*
